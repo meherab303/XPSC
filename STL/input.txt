@@ -1,4 +1,2 @@
-3
-rahim 10
-karim 12
-sadik 15
+5
+3 4 5 1 2
