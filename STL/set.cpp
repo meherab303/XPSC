@@ -56,9 +56,9 @@ int main()
     // auto it =st.upper_bound(y);
     // if(it!=st.end())cout<<*it<<endl;
 
-    //7.size()-O(1)
-    //8.empty()-O(1)
-    //9.clear()--(N)
+    //8.size()-O(1)
+    //9.empty()-O(1)
+    //10.clear()--(N)
 
 
   return 0;
