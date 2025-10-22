@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-  
+    //1.sorted thake --> hoi max heap or min heap.
+    
     int n;cin>>n;
     priority_queue<int>pq; //by default max heap(non-increasing -->means descending but allow dupplicates )
   
